@@ -1,13 +1,13 @@
 This is a file storage server which accepts file using post method and user can retrieve them using get method.
 Following are the APIs which can be used to upload and downlaod files.
 
-1. UplaodFile: http://localhost:8000/api/uploadfile/{username}
+1. UplaodFile: http://localhost:8000/api/uploadfile/{username} . <\br>
 using above request file will be uploaded against the given user name
 
-2. ShowFiles:http://localhost:8000/api/showfiles/{username}
+2. ShowFiles:http://localhost:8000/api/showfiles/{username}<\br>
 All files uploaded against given username will be shown
 
-1. DownlaodFile: http://localhost:8000/api/downloadfile/{filename}
+1. DownlaodFile: http://localhost:8000/api/downloadfile/{filename}<\br>
 a file with the given name will be downlaoded
 
 
