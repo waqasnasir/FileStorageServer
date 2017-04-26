@@ -7,7 +7,7 @@ Using above request file will be uploaded against the given user name
 2. ShowFiles:http://localhost:8000/api/showfiles/{username} 
 All files uploaded against given username will be shown
 
-1. DownlaodFile: http://localhost:8000/api/downloadfile/{filename 
+1. DownlaodFile: http://localhost:8000/api/downloadfile/{filename}
 A file with the given name will be downlaoded
 
 
